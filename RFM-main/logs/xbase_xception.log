@@ -1,0 +1,247 @@
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+epoch:2999 batch:003000 loss:0.68612 avgloss:0.73118
+AUC:0.500000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 validset
+AUC:0.500000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 pggan_v2
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+epoch:999 batch:003000 loss:0.31247 avgloss:0.60933
+AUC:0.000000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 validset
+AUC:0.416667 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 pggan_v2
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+epoch:999 batch:003000 loss:0.35116 avgloss:0.54184
+AUC:0.000000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 validset
+AUC:0.416667 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 pggan_v2
+epoch:1999 batch:006000 loss:0.33528 avgloss:0.54006
+AUC:0.000000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 validset
+AUC:0.583333 TPR_2:0.500000 TPR_3:0.500000 TPR_4:0.500000 pggan_v2
+epoch:2999 batch:009000 loss:0.37554 avgloss:0.53809
+AUC:0.000000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 validset
+AUC:0.750000 TPR_2:0.000000 TPR_3:0.000000 TPR_4:0.000000 pggan_v2
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
+
+Model:xception BatchSize:16 lr:0.000200
